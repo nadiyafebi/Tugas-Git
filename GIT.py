@@ -1,4 +1,4 @@
-# Data panen
+# Datpanen
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
